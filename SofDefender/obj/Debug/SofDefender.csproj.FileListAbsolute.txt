@@ -1,0 +1,14 @@
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\SofDefender.dll
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\SofDefender.pdb
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\OTAPI.dll
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\TerrariaServer.exe
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\TShockAPI.dll
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\OTAPI.pdb
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\TerrariaServer.pdb
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\obj\Debug\SofDefender.csproj.AssemblyReference.cache
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\obj\Debug\SofDefender.csproj.CoreCompileInputs.cache
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\obj\Debug\SofDefender.csproj.CopyComplete
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\obj\Debug\SofDefender.dll
+C:\Users\32512\Documents\Code\SofDefender\SofDefender\obj\Debug\SofDefender.pdb

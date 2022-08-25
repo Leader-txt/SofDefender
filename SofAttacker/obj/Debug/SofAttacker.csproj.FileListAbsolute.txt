@@ -1,0 +1,8 @@
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\obj\Debug\SofAttacker.csproj.AssemblyReference.cache
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\obj\Debug\SofAttacker.csproj.SuggestedBindingRedirects.cache
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\obj\Debug\SofAttacker.csproj.CoreCompileInputs.cache
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\bin\Debug\SofAttacker.exe.config
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\bin\Debug\SofAttacker.exe
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\bin\Debug\SofAttacker.pdb
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\obj\Debug\SofAttacker.exe
+C:\Users\32512\Documents\Code\SofDefender\SofAttacker\obj\Debug\SofAttacker.pdb

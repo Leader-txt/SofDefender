@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SofDefender", "SofDefender\SofDefender.csproj", "{8C0A308E-5431-4E14-94B5-0C6E3B10789D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SofAttacker", "SofAttacker\SofAttacker.csproj", "{04AD8701-60B7-4A11-AB09-167BB433A22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0A308E-5431-4E14-94B5-0C6E3B10789D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0A308E-5431-4E14-94B5-0C6E3B10789D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0A308E-5431-4E14-94B5-0C6E3B10789D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0A308E-5431-4E14-94B5-0C6E3B10789D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AD8701-60B7-4A11-AB09-167BB433A22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AD8701-60B7-4A11-AB09-167BB433A22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AD8701-60B7-4A11-AB09-167BB433A22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AD8701-60B7-4A11-AB09-167BB433A22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521DA020-9892-4D8E-9839-7DEE81E463B0}
+	EndGlobalSection
+EndGlobal
